@@ -1,0 +1,4 @@
+0 Abnormal_Heart_Beat
+1 Covid19_Patients
+2 Myocardial
+3 Normal
